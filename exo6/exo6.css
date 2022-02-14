@@ -1,0 +1,20 @@
+.content{
+
+    border:2px solid black;
+    width: 700px;
+    height: 700px;
+    background-color: blue;
+    margin-left:30%;
+    margin-top:10%;
+
+
+}
+
+div{
+
+    margin-bottom:10px ;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    
+}

@@ -1,0 +1,51 @@
+.container{
+
+width:1000px ;
+height:1000px ;
+background-color: rgb(0, 102, 255);
+border: 2px solid black;
+margin-left:25% ;
+
+}
+.label{
+    margin-left:10%; 
+    margin-top:50px ;
+    font-size: 35px;
+}
+
+.inputchamp{
+ font-size:50px ;
+ background-color: #0000ff;
+ padding-left:30% ;
+ margin-left:5% ;
+    
+}
+
+#number{
+    width:20% ;
+    height:25px ;
+    border: 5px solid blue;
+
+
+}
+
+.submit{
+    width:15% ;
+    height:30px ;
+    border:2px solid black;
+    border-radius:5px ;
+    background-color: aquamarine;
+    margin-left: 5%;
+
+
+
+}
+
+.divphp{
+    
+    height:100% ;
+    text-align:center;
+    margin-top:5% ;
+
+
+}
